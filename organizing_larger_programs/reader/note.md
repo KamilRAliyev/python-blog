@@ -1,0 +1,4 @@
+- Packages are Modules that contains other modules.
+- Packages are generally implemented as directories containing a special `__init__.py` file
+- The `__init__.py` file is executed when the package is imported
+- Packages contain sub packages which themselves are implemented wit `__init__.py` files in directories.
